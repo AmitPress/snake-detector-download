@@ -24,7 +24,7 @@ export const Body = () => {
             <ReactMarkdown>
                 # Download Now!
             </ReactMarkdown>
-            <a href="https://github.com/AmitPress/snake-detector-download/raw/main/app.apk?download=">Click Here</a>
+            <a href="https://drive.google.com/file/d/1KWrsN7YExCCXS1eEUiwRoDwi3uRB5dTw/view?usp=drive_link">Click Here</a>
             </div>
         </>}
         {active == 2 && <>

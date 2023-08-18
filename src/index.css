@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+a{
+  text-decoration: none;
+}
+a.visited{
+  color: blueviolet;
+}
+
+body{
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(45deg, rgb(183, 253, 193), rgb(221, 240, 125));
+}
